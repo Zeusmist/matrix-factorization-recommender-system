@@ -1,0 +1,8 @@
+*.env
+.env.prod
+
+/env
+*.csv
+__pycache__/
+
+service-account-key.json
